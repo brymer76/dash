@@ -35,7 +35,7 @@ function Dashboard() {
                 color="success"
                 icon="currency_exchange_icon"
                 title="Amount"
-                count={281000000}
+                count={15000000}
                 percentage={{
                   color: "success",
                   amount: "+55%",
