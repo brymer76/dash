@@ -91,10 +91,10 @@ function Dashboard() {
         </Grid>
         <MDBox mt={4.5}>
          <Grid container spacing={3}>
-         <Grid item xs={6} xl={5}>
-                  <MasterCard number={4562112245947852} holder="jack peterson" expires="11/28" />
+         <Grid item xs={12} xl={5}>
+                  <MasterCard number={4562112245947852} holder="Mack Sinclair" expires="03/26" />
                 </Grid>
-            <Grid item xs={12} md={6} lg={4}>
+            <Grid item xs={12} md={6} lg={8}>
               {/* <MDBox mb={3}>
                 <ReportsLineChart
                   color="success"
